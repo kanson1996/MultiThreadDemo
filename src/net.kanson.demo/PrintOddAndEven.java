@@ -1,7 +1,7 @@
 package net.kanson.demo;
 
 /**
- * @Description: 一个分开打印奇数、偶数的dmeo
+ * @Description: 一个分开打印奇数、偶数的demo
  * @Author: Kanson
  * @Date: 2020-09-24
  */
